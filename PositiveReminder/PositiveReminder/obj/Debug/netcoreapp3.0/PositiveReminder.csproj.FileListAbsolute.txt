@@ -1,0 +1,17 @@
+C:\Users\alfie\OneDrive\Documents\GitHub\PositiveReminders\PositiveReminder\PositiveReminder\bin\Debug\netcoreapp3.0\PositiveReminder.exe
+C:\Users\alfie\OneDrive\Documents\GitHub\PositiveReminders\PositiveReminder\PositiveReminder\bin\Debug\netcoreapp3.0\PositiveReminder.deps.json
+C:\Users\alfie\OneDrive\Documents\GitHub\PositiveReminders\PositiveReminder\PositiveReminder\bin\Debug\netcoreapp3.0\PositiveReminder.runtimeconfig.json
+C:\Users\alfie\OneDrive\Documents\GitHub\PositiveReminders\PositiveReminder\PositiveReminder\bin\Debug\netcoreapp3.0\PositiveReminder.runtimeconfig.dev.json
+C:\Users\alfie\OneDrive\Documents\GitHub\PositiveReminders\PositiveReminder\PositiveReminder\bin\Debug\netcoreapp3.0\PositiveReminder.dll
+C:\Users\alfie\OneDrive\Documents\GitHub\PositiveReminders\PositiveReminder\PositiveReminder\bin\Debug\netcoreapp3.0\PositiveReminder.pdb
+C:\Users\alfie\OneDrive\Documents\GitHub\PositiveReminders\PositiveReminder\PositiveReminder\obj\Debug\netcoreapp3.0\PositiveReminder.csprojAssemblyReference.cache
+C:\Users\alfie\OneDrive\Documents\GitHub\PositiveReminders\PositiveReminder\PositiveReminder\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\alfie\OneDrive\Documents\GitHub\PositiveReminders\PositiveReminder\PositiveReminder\obj\Debug\netcoreapp3.0\PositiveReminder_MarkupCompile.cache
+C:\Users\alfie\OneDrive\Documents\GitHub\PositiveReminders\PositiveReminder\PositiveReminder\obj\Debug\netcoreapp3.0\PositiveReminder_MarkupCompile.lref
+C:\Users\alfie\OneDrive\Documents\GitHub\PositiveReminders\PositiveReminder\PositiveReminder\obj\Debug\netcoreapp3.0\PositiveReminder.g.resources
+C:\Users\alfie\OneDrive\Documents\GitHub\PositiveReminders\PositiveReminder\PositiveReminder\obj\Debug\netcoreapp3.0\PositiveReminder.AssemblyInfoInputs.cache
+C:\Users\alfie\OneDrive\Documents\GitHub\PositiveReminders\PositiveReminder\PositiveReminder\obj\Debug\netcoreapp3.0\PositiveReminder.AssemblyInfo.cs
+C:\Users\alfie\OneDrive\Documents\GitHub\PositiveReminders\PositiveReminder\PositiveReminder\obj\Debug\netcoreapp3.0\PositiveReminder.dll
+C:\Users\alfie\OneDrive\Documents\GitHub\PositiveReminders\PositiveReminder\PositiveReminder\obj\Debug\netcoreapp3.0\PositiveReminder.pdb
+C:\Users\alfie\OneDrive\Documents\GitHub\PositiveReminders\PositiveReminder\PositiveReminder\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\alfie\OneDrive\Documents\GitHub\PositiveReminders\PositiveReminder\PositiveReminder\obj\Debug\netcoreapp3.0\MainWindow.baml
