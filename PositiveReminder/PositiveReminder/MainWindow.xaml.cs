@@ -33,8 +33,10 @@ namespace PositiveReminder
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            if(Ra)
-            MessageBox.Show(MessageHolder.GetRandomMessage());
+            if (EnableButton.IsChecked == true)
+            {
+                MessageBox.Show(MessageHolder.GetRandomMessage());
+            }
         }
     }
 }

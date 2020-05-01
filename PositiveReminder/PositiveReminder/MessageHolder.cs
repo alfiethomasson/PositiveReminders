@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Collections.Generic;
 using System.Text;
 
@@ -10,10 +11,15 @@ namespace PositiveReminder
         public static void Start()
         {
             messages = new List<string>();
-            messages.Add("You are Appreciated");
+            string[] lines = File.ReadAllLines("Messages.txt");
+
+            foreach (string line in lines)
+                messages.Add(line);
+            
+         /*   messages.Add("You are Appreciated");
             messages.Add("You are popular");
             messages.Add("You are awesome");
-            messages.Add("You are useful");
+            messages.Add("You are useful");*/
         }
 
         public static string GetRandomMessage()
