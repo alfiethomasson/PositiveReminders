@@ -15,11 +15,6 @@ namespace PositiveReminder
 
             foreach (string line in lines)
                 messages.Add(line);
-            
-         /*   messages.Add("You are Appreciated");
-            messages.Add("You are popular");
-            messages.Add("You are awesome");
-            messages.Add("You are useful");*/
         }
 
         public static string GetRandomMessage()
